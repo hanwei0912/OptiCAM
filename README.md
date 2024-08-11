@@ -1,5 +1,5 @@
 # OptiCAM
-code for the CVIU paper: "[Opti-CAM: Optimizing saliency maps for interoperability](https://www.sciencedirect.com/science/article/pii/S1077314224001826)"
+code for the CVIU paper: "[Opti-CAM: Optimizing saliency maps for interpretability](https://www.sciencedirect.com/science/article/pii/S1077314224001826)"
 
 ![opti](figures/opti.png)
 ______
